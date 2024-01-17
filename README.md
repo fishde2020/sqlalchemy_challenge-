@@ -1,4 +1,4 @@
-**sqlalchemy-challenge**
+****sqlalchemy-challenge****
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii.
 
@@ -43,8 +43,9 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 5. Sort the DataFrame values by "date".
 
 6. Plot the results by using the DataFrame plot method, as the following image shows:
- 
-precipitation jpg
+ ![image](https://github.com/fishde2020/sqlalchemy_challenge-/assets/63689919/a08fb0e5-416e-429d-a78f-15a0fa976c2a)
+
+
 7. Use Pandas to print the summary statistics for the precipitation data.
 
 **Station Analysis**
@@ -60,8 +61,8 @@ precipitation jpg
 
     .Plot the results as a histogram with bins=12, as the following image shows:
 
-station-histogram jpg
-Close your session.
+![image](https://github.com/fishde2020/sqlalchemy_challenge-/assets/63689919/8c1c5414-e1d4-4436-aeb6-397cd4e43024)
+
 
 **Part 2: Design Your Climate App**
 
